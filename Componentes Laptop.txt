@@ -4,3 +4,4 @@ Componentes de Laptop Dell G3 15 3590
 - Targeta Grafica: Nvidia 1660 Ti 6 DDR6 GB
 - Ram: 20 GB 2660hz 
 
+Este equipo puede con todos los juegos actuales solo que le falta Ram 8GB ya no le abastese, pero ahora tratare de ponerle 32GB DDR4 Hz 2660
