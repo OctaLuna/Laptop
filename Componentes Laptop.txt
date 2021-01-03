@@ -2,5 +2,5 @@ Componentes de Laptop Dell G3 15 3590
 
 - Procesador: intel core i 7-9750H
 - Targeta Grafica: Nvidia 1660 Ti 6 DDR6 GB
-- Ram: 8 GB 2660hz 
+- Ram: 20 GB 2660hz 
 
