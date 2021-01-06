@@ -8,8 +8,13 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h2{
-    color: darkred;
+    color: springgreen;
     font-family: sans-serif;
+}
+h3{
+    color: skyblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
 p{
     color: mediumturquoise;
