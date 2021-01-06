@@ -9,9 +9,12 @@ h1{
 }
 h2{
     color: darkred;
-    font-family: sans-serif;
+    font-family: initial;
 }
 p{
     color: mediumturquoise;
     font-family: fantasy;
 }
+h3{
+    color: lime;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
