@@ -8,8 +8,13 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h2{
+<<<<<<< HEAD
     color: springgreen;
     font-family: sans-serif;
+=======
+    color: darkred;
+    font-family: initial;
+>>>>>>> header
 }
 h3{
     color: skyblue;
@@ -20,3 +25,6 @@ p{
     color: mediumturquoise;
     font-family: fantasy;
 }
+h3{
+    color: lime;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
