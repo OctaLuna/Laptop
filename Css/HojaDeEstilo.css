@@ -1,20 +1,15 @@
 body{
     color: darkturquoise;
     text-align: center;
-    font-family: "Arial";
+    font-family: 'Times New Roman', Times, serif;
 }
 h1{
     color: navy;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h2{
-<<<<<<< HEAD
-    color: springgreen;
-    font-family: sans-serif;
-=======
     color: darkred;
     font-family: initial;
->>>>>>> header
 }
 h3{
     color: skyblue;
