@@ -3,3 +3,4 @@
 
 **Lo hice con los las clases de Platzi!!!**
 **Se hice tomando la carrera de creacion de videojuegos**
+**Platzi es muy buena escuela de hecho se parece mas a una universidad**
